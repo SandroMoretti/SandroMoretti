@@ -23,15 +23,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 
-<!--
+
 ##
 ### 📊 Statistics:
+
   
 <div>
   <a href="https://github.com/sandromoretti">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sandromoretti&bg_color=2D3748&title_color=ffffff&icon_color=2F855A&text_color=ffffff&langs_count=22&layout=compact&cache_seconds=1800&display_format=percent&custom_title=Where%20I%27ve%20been%20working%20lately:"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=SandroMoretti&bg_color=2D3748&title_color=ffffff&icon_color=2F855A&text_color=ffffff&langs_count=22&layout=compact&cache_seconds=1800&display_format=percent&custom_title=Where%20I%27ve%20been%20working%20lately:"/>
 </div>
-    
-<!-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gabrieldiaspereira&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieldiaspereira" />
-</p> -->
